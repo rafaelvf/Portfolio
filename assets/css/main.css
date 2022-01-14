@@ -2906,3 +2906,18 @@ input, select, textarea {
 			}
 
 	}
+
+	.technologies{
+		display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: center;
+    box-sizing: content-box;}
+	.logos{
+		width: 60px;
+		display: block;
+		text-align: center;
+		font-size: 1em;
+		padding: 1em;
+		
+	}
